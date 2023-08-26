@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Atharvadedge
-- 👀 I’m interested in Web Developer, Full Stack Developer, Data Analyst role.
+- 👀 I’m interested and looking for a job as a Web Developer, Full Stack Developer, Data Analyst role.
 - 🌱 I’m currently learning Computer science Engineering.
 - 💞️ I’m looking to collaborate on the fields I've mentioned.
 - 📫 How to reach me 
