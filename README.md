@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Atharvadedge
-- 👀 I’m interested and looking for a job as a Web Developer, Full Stack Developer, Data Analyst role.
-- 🌱 Recently completed Computer science Engineering B.E. in July 2023.
-- 💞️ I’m open for work and looking for a job role on the fields I've mentioned.
+-  Working as an Automation Test Engineer at Jade Global since September 2023
+-  B.E. Computer Engineering (2023) - 8.35 CGPA
+-  Looking forward  for seeking a more challenging role as a Web Developer, Full Stack Developer, Data Analyst.
 - 📫 How to reach me 
 https://www.linkedin.com/in/atharva-dedge-662738210 is my LinkedIn profile.
 atharvadedge24@gmail.com - email
